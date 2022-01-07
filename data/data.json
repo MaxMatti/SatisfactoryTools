@@ -4950,7 +4950,7 @@
 		},
 		"Recipe_FactoryCart_C": {
 			"slug": "factory-cart",
-			"name": "Factory Cart™",
+			"name": "Factory Cart\u2122",
 			"className": "Recipe_FactoryCart_C",
 			"alternate": false,
 			"time": 20,
@@ -6170,7 +6170,7 @@
 		},
 		"Recipe_GoldenCart_C": {
 			"slug": "golden-factory-cart",
-			"name": "Golden Factory Cart™",
+			"name": "Golden Factory Cart\u2122",
 			"className": "Recipe_GoldenCart_C",
 			"alternate": false,
 			"time": 20,
@@ -17585,6 +17585,3898 @@
 			],
 			"producedIn": [],
 			"isVariablePower": false
+		},
+		"BP_EqRecipe_SinkPointZipLine_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_EqRecipe_SinkPointZipLine_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_EqDescZipLine_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 5284
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"BP_EquipmentRecipe_SinkPointriptorBeacon_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_EquipmentRecipe_SinkPointriptorBeacon_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_EquipmentDescriptorBeacon_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 320
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"BP_EquipmentRecipe_SinkPointriptorGasmask_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_EquipmentRecipe_SinkPointriptorGasmask_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_EquipmentDescriptorGasmask_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 55000
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"BP_EquipmentRecipe_SinkPointriptorHazmatSuit_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_EquipmentRecipe_SinkPointriptorHazmatSuit_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_EquipmentDescriptorHazmatSuit_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 54100
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"BP_EquipmentRecipe_SinkPointriptorHoverPack_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_EquipmentRecipe_SinkPointriptorHoverPack_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_EquipmentDescriptorHoverPack_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 413920
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"BP_EquipmentRecipe_SinkPointriptorJetPack_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_EquipmentRecipe_SinkPointriptorJetPack_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_EquipmentDescriptorJetPack_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 49580
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"BP_EquipmentRecipe_SinkPointriptorJumpingStilts_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_EquipmentRecipe_SinkPointriptorJumpingStilts_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_EquipmentDescriptorJumpingStilts_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 4988
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"BP_EquipmentRecipe_SinkPointriptorNobeliskDetonator_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_EquipmentRecipe_SinkPointriptorNobeliskDetonator_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_EquipmentDescriptorNobeliskDetonator_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 39520
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"BP_EquipmentRecipe_SinkPointriptorObjectScanner_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_EquipmentRecipe_SinkPointriptorObjectScanner_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_EquipmentDescriptorObjectScanner_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 3080
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"BP_EquipmentRecipe_SinkPointriptorRifle_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_EquipmentRecipe_SinkPointriptorRifle_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_EquipmentDescriptorRifle_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 99160
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"BP_EquipmentRecipe_SinkPointriptorShockShank_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_EquipmentRecipe_SinkPointriptorShockShank_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_EquipmentDescriptorShockShank_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 1880
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"BP_EquipmentRecipe_SinkPointriptorStunSpear_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_EquipmentRecipe_SinkPointriptorStunSpear_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_EquipmentDescriptorStunSpear_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 18800
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"BP_ItemRecipe_SinkPointriptorPortableMiner_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "BP_ItemRecipe_SinkPointriptorPortableMiner_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "BP_ItemDescriptorPortableMiner_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 56
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_AluminaSolution_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_AluminaSolution_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_AluminaSolution_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 20
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_AluminumCasing_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_AluminumCasing_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_AluminumCasing_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 393
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_AluminumIngot_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_AluminumIngot_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_AluminumIngot_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 131
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_AluminumPlateReinforced_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_AluminumPlateReinforced_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_AluminumPlateReinforced_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 2804
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_AluminumPlate_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_AluminumPlate_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_AluminumPlate_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 266
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_AluminumScrap_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_AluminumScrap_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_AluminumScrap_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 27
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Battery_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Battery_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Battery_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 465
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Berry_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Berry_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Berry_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Biofuel_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Biofuel_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Biofuel_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 48
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Cable_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Cable_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Cable_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 24
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_CartridgeStandard_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_CartridgeStandard_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_CartridgeStandard_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 664
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Cement_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Cement_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Cement_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 12
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Chainsaw_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Chainsaw_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Chainsaw_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 2760
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_CircuitBoardHighSpeed_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_CircuitBoardHighSpeed_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_CircuitBoardHighSpeed_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 920
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_CircuitBoard_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_CircuitBoard_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_CircuitBoard_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 696
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Coal_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Coal_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Coal_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 3
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_ColorCartridge_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_ColorCartridge_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_ColorCartridge_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 10
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_CompactedCoal_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_CompactedCoal_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_CompactedCoal_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 28
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_ComputerSuper_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_ComputerSuper_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_ComputerSuper_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 99576
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Computer_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Computer_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Computer_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 17260
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_CoolingSystem_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_CoolingSystem_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_CoolingSystem_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 12006
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_CopperDust_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_CopperDust_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_CopperDust_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 72
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_CopperIngot_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_CopperIngot_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_CopperIngot_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 6
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_CopperSheet_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_CopperSheet_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_CopperSheet_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 24
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_CrystalOscillator_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_CrystalOscillator_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_CrystalOscillator_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 3072
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_CrystalShard_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_CrystalShard_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_CrystalShard_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Crystal_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Crystal_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Crystal_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Crystal_mk2_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Crystal_mk2_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Crystal_mk2_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Crystal_mk3_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Crystal_mk3_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Crystal_mk3_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_ElectromagneticControlRod_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_ElectromagneticControlRod_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_ElectromagneticControlRod_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 2560
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Fabric_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Fabric_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Fabric_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 140
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Filter_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Filter_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Filter_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 830
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_FlowerPetals_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_FlowerPetals_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_FlowerPetals_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 10
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_FluidCanister_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_FluidCanister_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_FluidCanister_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 60
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Fuel_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Fuel_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Fuel_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 270
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_GasTank_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_GasTank_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_GasTank_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 225
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_GenericBiomass_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_GenericBiomass_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_GenericBiomass_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 12
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_GoldIngot_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_GoldIngot_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_GoldIngot_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 42
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_GolfCartGold_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_GolfCartGold_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_GolfCartGold_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": null
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_GolfCart_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_GolfCart_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_GolfCart_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 1552
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Gunpowder_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Gunpowder_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Gunpowder_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 50
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_HUBParts_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_HUBParts_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_HUBParts_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_HazmatFilter_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_HazmatFilter_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_HazmatFilter_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 2718
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_HeavyOilResidue_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_HeavyOilResidue_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_HeavyOilResidue_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 30
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_HighSpeedConnector_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_HighSpeedConnector_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_HighSpeedConnector_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 3776
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_HighSpeedWire_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_HighSpeedWire_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_HighSpeedWire_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 17
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_HogParts_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_HogParts_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_HogParts_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_IronIngot_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_IronIngot_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_IronIngot_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 2
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_IronPlateReinforced_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_IronPlateReinforced_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_IronPlateReinforced_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 120
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_IronPlate_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_IronPlate_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_IronPlate_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 6
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_IronRod_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_IronRod_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_IronRod_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 4
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_IronScrew_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_IronScrew_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_IronScrew_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 2
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Leaves_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Leaves_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Leaves_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 3
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_LiquidBiofuel_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_LiquidBiofuel_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_LiquidBiofuel_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 261
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_LiquidFuel_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_LiquidFuel_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_LiquidFuel_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 75
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_LiquidOil_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_LiquidOil_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_LiquidOil_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 30
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_LiquidTurboFuel_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_LiquidTurboFuel_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_LiquidTurboFuel_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 225
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Medkit_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Medkit_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Medkit_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 67
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_ModularFrameFused_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_ModularFrameFused_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_ModularFrameFused_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 62840
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_ModularFrameHeavy_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_ModularFrameHeavy_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_ModularFrameHeavy_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 11520
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_ModularFrameLightweight_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_ModularFrameLightweight_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_ModularFrameLightweight_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 32908
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_ModularFrame_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_ModularFrame_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_ModularFrame_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 408
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_MotorLightweight_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_MotorLightweight_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_MotorLightweight_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 242720
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Motor_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Motor_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Motor_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 1520
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Mycelia_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Mycelia_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Mycelia_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 10
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_NitricAcid_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_NitricAcid_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_NitricAcid_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 94
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_NitrogenGas_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_NitrogenGas_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_NitrogenGas_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 10
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_NobeliskExplosive_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_NobeliskExplosive_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_NobeliskExplosive_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 980
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_NonFissibleUranium_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_NonFissibleUranium_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_NonFissibleUranium_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_NuclearFuelRod_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_NuclearFuelRod_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_NuclearFuelRod_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 44092
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_NuclearWaste_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_NuclearWaste_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_NuclearWaste_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Nut_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Nut_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Nut_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_OreBauxite_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_OreBauxite_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_OreBauxite_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 8
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_OreCopper_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_OreCopper_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_OreCopper_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 3
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_OreGold_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_OreGold_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_OreGold_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 7
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_OreIron_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_OreIron_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_OreIron_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 1
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_OreUranium_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_OreUranium_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_OreUranium_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 35
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PackagedAlumina_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PackagedAlumina_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PackagedAlumina_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 160
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PackagedBiofuel_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PackagedBiofuel_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PackagedBiofuel_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 370
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PackagedNitricAcid_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PackagedNitricAcid_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PackagedNitricAcid_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 412
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PackagedNitrogenGas_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PackagedNitrogenGas_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PackagedNitrogenGas_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 312
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PackagedOilResidue_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PackagedOilResidue_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PackagedOilResidue_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 180
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PackagedOil_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PackagedOil_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PackagedOil_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 180
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PackagedSulfuricAcid_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PackagedSulfuricAcid_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PackagedSulfuricAcid_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 152
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PackagedWater_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PackagedWater_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PackagedWater_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 130
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Parachute_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Parachute_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Parachute_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 608
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PetroleumCoke_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PetroleumCoke_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PetroleumCoke_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 20
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Plastic_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Plastic_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Plastic_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 75
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PlutoniumCell_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PlutoniumCell_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PlutoniumCell_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PlutoniumFuelRod_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PlutoniumFuelRod_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PlutoniumFuelRod_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 153184
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PlutoniumPellet_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PlutoniumPellet_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PlutoniumPellet_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PlutoniumWaste_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PlutoniumWaste_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PlutoniumWaste_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PolymerResin_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PolymerResin_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PolymerResin_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 12
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_PressureConversionCube_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_PressureConversionCube_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_PressureConversionCube_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 257312
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_QuartzCrystal_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_QuartzCrystal_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_QuartzCrystal_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 50
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_RawQuartz_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_RawQuartz_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_RawQuartz_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 15
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_RebarGunProjectile_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_RebarGunProjectile_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_RebarGunProjectile_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 1968
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_ResourceSinkCoupon_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_ResourceSinkCoupon_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 1
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Rotor_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Rotor_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Rotor_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 140
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Rubber_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Rubber_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Rubber_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 60
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Shroom_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Shroom_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Shroom_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Silica_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Silica_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Silica_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 20
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SpaceElevatorPart_1_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SpaceElevatorPart_1_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SpaceElevatorPart_1_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 520
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SpaceElevatorPart_2_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SpaceElevatorPart_2_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SpaceElevatorPart_2_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 1176
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SpaceElevatorPart_3_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SpaceElevatorPart_3_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SpaceElevatorPart_3_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 1440
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SpaceElevatorPart_4_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SpaceElevatorPart_4_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SpaceElevatorPart_4_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 9960
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SpaceElevatorPart_5_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SpaceElevatorPart_5_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SpaceElevatorPart_5_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 86120
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SpaceElevatorPart_6_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SpaceElevatorPart_6_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SpaceElevatorPart_6_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 15650
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SpaceElevatorPart_7_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SpaceElevatorPart_7_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SpaceElevatorPart_7_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 543632
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SpaceElevatorPart_8_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SpaceElevatorPart_8_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SpaceElevatorPart_8_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 732956
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SpaceElevatorPart_9_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SpaceElevatorPart_9_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SpaceElevatorPart_9_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 543424
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SpikedRebar_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SpikedRebar_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SpikedRebar_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 8
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SpitterParts_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SpitterParts_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SpitterParts_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 0
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Stator_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Stator_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Stator_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 240
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SteelIngot_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SteelIngot_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SteelIngot_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 8
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SteelPipe_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SteelPipe_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SteelPipe_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 24
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SteelPlateReinforced_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SteelPlateReinforced_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SteelPlateReinforced_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 632
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SteelPlate_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SteelPlate_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SteelPlate_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 64
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Stone_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Stone_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Stone_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 2
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Sulfur_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Sulfur_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Sulfur_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 11
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_SulfuricAcid_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_SulfuricAcid_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_SulfuricAcid_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 16
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_TurboFuel_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_TurboFuel_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_TurboFuel_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 570
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_UraniumCell_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_UraniumCell_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_UraniumCell_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 147
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Water_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Water_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Water_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 5
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Wire_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Wire_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Wire_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 6
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
+		},
+		"Recipe_SinkPoint_Wood_C": {
+			"slug": "sink-point",
+			"name": "Sink Point",
+			"className": "Recipe_SinkPoint_Wood_C",
+			"alternate": false,
+			"time": 1,
+			"manuelTimeMultiplier": 1,
+			"ingredients": [
+				{
+					"item": "Desc_Wood_C",
+					"amount": 1
+				}
+			],
+			"forBuilding": false,
+			"inMachine": true,
+			"inhand": true,
+			"inWorkshop": false,
+			"products": [
+				{
+					"item": "Desc_ResourceSinkCoupon_C",
+					"amount": 30
+				}
+			],
+			"producedIn": [
+				"Desc_ResourceSink_C"
+			],
+			"isVariablePower": false
 		}
 	},
 	"items": {
@@ -18458,9 +22350,9 @@
 		"Desc_GolfCartGold_C": {
 			"slug": "golden-factory-cart",
 			"className": "Desc_GolfCartGold_C",
-			"name": "Golden Factory Cart™",
+			"name": "Golden Factory Cart\u2122",
 			"sinkPoints": null,
-			"description": "The one and only Golden FICSIT Factory Cart™\n\nYou have now officially ascended. \nGo forth now, Master of Spaghetti, God of the Factory, Sinker of Cups, Employee of the Planet... travel in STYLE!",
+			"description": "The one and only Golden FICSIT Factory Cart\u2122\n\nYou have now officially ascended. \nGo forth now, Master of Spaghetti, God of the Factory, Sinker of Cups, Employee of the Planet... travel in STYLE!",
 			"stackSize": 1,
 			"energyValue": 0,
 			"radioactiveDecay": 0,
@@ -18475,9 +22367,9 @@
 		"Desc_GolfCart_C": {
 			"slug": "factory-cart",
 			"className": "Desc_GolfCart_C",
-			"name": "Factory Cart™",
+			"name": "Factory Cart\u2122",
 			"sinkPoints": 1552,
-			"description": "The one and only FICSIT Factory Cart™\nNow with special - FICSIT Foundation only - Grip Wheels, for an even smoother and faster factory floor experience!",
+			"description": "The one and only FICSIT Factory Cart\u2122\nNow with special - FICSIT Foundation only - Grip Wheels, for an even smoother and faster factory floor experience!",
 			"stackSize": 1,
 			"energyValue": 0,
 			"radioactiveDecay": 0,
@@ -22408,7 +26300,7 @@
 		},
 		"ResourceSink_CoffeeCup_C": {
 			"className": "ResourceSink_CoffeeCup_C",
-			"name": "FICSIT™ Coffee Cup",
+			"name": "FICSIT\u2122 Coffee Cup",
 			"slug": "get-ficsit-coffee-cup",
 			"tier": 1,
 			"cost": [
@@ -23325,7 +27217,7 @@
 		},
 		"ResourceSink_FactoryCart_C": {
 			"className": "ResourceSink_FactoryCart_C",
-			"name": "FICSIT Factory Cart™",
+			"name": "FICSIT Factory Cart\u2122",
 			"slug": "ficsit-factory-cart",
 			"tier": 1,
 			"cost": [
@@ -23634,7 +27526,7 @@
 		},
 		"ResourceSink_GoldenCart_C": {
 			"className": "ResourceSink_GoldenCart_C",
-			"name": "Golden FICSIT Factory Cart™",
+			"name": "Golden FICSIT Factory Cart\u2122",
 			"slug": "golden-ficsit-factory-cart",
 			"tier": 1,
 			"cost": [
@@ -30276,7 +34168,7 @@
 		"Desc_FrackingExtractor_C": {
 			"slug": "resource-well-extractor",
 			"name": "Resource Well Extractor",
-			"description": "Normal extraction rate: 60m³ fluid per minute.\nHead Lift: 10 meters.\n(Allows fluids to be transported 10 meters upwards.)\n\nCan be placed on the activated sub-nodes of a Resource Well to collect the pressurized resources. Does not require Power.",
+			"description": "Normal extraction rate: 60m\u00b3 fluid per minute.\nHead Lift: 10 meters.\n(Allows fluids to be transported 10 meters upwards.)\n\nCan be placed on the activated sub-nodes of a Resource Well to collect the pressurized resources. Does not require Power.",
 			"categories": [
 				"SC_OilProduction_C"
 			],
@@ -30508,7 +34400,7 @@
 		"Desc_IndustrialTank_C": {
 			"slug": "industrial-fluid-buffer",
 			"name": "Industrial Fluid Buffer",
-			"description": "Can contain up to 2400m³ of fluid.\nHas an input and output for pipes.",
+			"description": "Can contain up to 2400m\u00b3 of fluid.\nHas an input and output for pipes.",
 			"categories": [
 				"SC_Storage_C"
 			],
@@ -31302,7 +35194,7 @@
 		"Desc_OilPump_C": {
 			"slug": "oil-extractor",
 			"name": "Oil Extractor",
-			"description": "Normal extraction rate: 120m³ oil per minute.\nHead Lift: 10 meters.\n(Allows fluids to be transported 10 meters upwards.)\n\nCan be built on an Oil Node to extract Crude Oil. Extraction rates depend on node purity.",
+			"description": "Normal extraction rate: 120m\u00b3 oil per minute.\nHead Lift: 10 meters.\n(Allows fluids to be transported 10 meters upwards.)\n\nCan be built on an Oil Node to extract Crude Oil. Extraction rates depend on node purity.",
 			"categories": [
 				"SC_OilProduction_C"
 			],
@@ -31554,7 +35446,7 @@
 		"Desc_PipeStorageTank_C": {
 			"slug": "fluid-buffer",
 			"name": "Fluid Buffer",
-			"description": "Can contain up to 400m³ of fluid.\nHas an input and output for pipes.",
+			"description": "Can contain up to 400m\u00b3 of fluid.\nHas an input and output for pipes.",
 			"categories": [
 				"SC_Storage_C"
 			],
@@ -31607,7 +35499,7 @@
 		"Desc_PipelineMK2_C": {
 			"slug": "pipeline-mk-2",
 			"name": "Pipeline Mk.2",
-			"description": "Outside indicators show volume, flow rate and direction.\nTransports up to 600m³ of fluid per minute.\nUsed to transport fluids.",
+			"description": "Outside indicators show volume, flow rate and direction.\nTransports up to 600m\u00b3 of fluid per minute.\nUsed to transport fluids.",
 			"categories": [
 				"SC_Pipes_C"
 			],
@@ -31711,7 +35603,7 @@
 		"Desc_Pipeline_C": {
 			"slug": "pipeline-mk-1",
 			"name": "Pipeline Mk.1",
-			"description": "Outside indicators show volume, flow rate and direction.\nTransports up to 300m³ of fluid per minute.\nUsed to transport fluids.",
+			"description": "Outside indicators show volume, flow rate and direction.\nTransports up to 300m\u00b3 of fluid per minute.\nUsed to transport fluids.",
 			"categories": [
 				"SC_Pipes_C"
 			],
@@ -35363,7 +39255,7 @@
 		"Desc_WaterPump_C": {
 			"slug": "water-extractor",
 			"name": "Water Extractor",
-			"description": "Default extraction rate: 120m³ water per minute.\nHead Lift: 10 meters.\n(Allows fluids to be transported 10 meters upwards.)\n\nExtracts water from the body of water it is built on.\nNote that the water needs to be deep enough and that rivers do not commonly suffice.",
+			"description": "Default extraction rate: 120m\u00b3 water per minute.\nHead Lift: 10 meters.\n(Allows fluids to be transported 10 meters upwards.)\n\nExtracts water from the body of water it is built on.\nNote that the water needs to be deep enough and that rivers do not commonly suffice.",
 			"categories": [
 				"SC_OilProduction_C"
 			],
