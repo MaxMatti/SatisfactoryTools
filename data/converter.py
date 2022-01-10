@@ -10,10 +10,12 @@ def main(argv):
 	print("2")
 	for item_name in obj["items"]:
 		item = obj["items"][item_name]
+		if item["sinkPoints"] == None or item["sinkPoints"] == 0:
+			continue
 		recipe = {}
 		recipe["slug"] = "sink-point"
 		recipe["name"] = "Sink Point"
-		recipe["className"] = item["className"].replace("Desc", "Recipe_SinkPoint")
+		recipe["className"] = "Recipe_SinkPoint_" + item["className"]
 		recipe["alternate"] = False
 		recipe["time"] = 1
 		recipe["manuelTimeMultiplier"] = 1
